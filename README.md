@@ -4,13 +4,13 @@ This is a website built with Bootstrap. It demonstrates Bootstrap Components and
 
 ## About
 
-This is a website about...
+This is a website about Predatory Birds
 
 It contains three pages:
 
 - index.html - the home page
 - about.html - the about me page
-- **\_\_**.html - ****\_****
+- **\_\_**.html - \***\*\_\*\***
 
 ## Built With
 
@@ -23,15 +23,15 @@ It contains three pages:
 
 - [x] index.html
 - [x] about.html
-- [ ] Bootstrap List Group
-- [ ] Bootstrap Card Component
-- [ ] Bootstrap Grid
+- [x] Bootstrap List Group
+- [x] Bootstrap Card Component
+- [x] Bootstrap Grid
 - [ ] ***
 - [ ] Bootstrap Utility Class
 
 ## Contact
 
-Author:
+Author: Desmon Garrison email is desmongarrison2@gmail.com
 
 ## Acknowledgements
 
