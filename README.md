@@ -8,11 +8,9 @@ This is a website about...
 
 It contains three pages:
 
-* index.html - the home page
-* about.html - the about me page
-* ______.html - _________ 
-
-
+- index.html - the home page
+- about.html - the about me page
+- **\_\_**.html - ****\_****
 
 ## Built With
 
@@ -21,21 +19,19 @@ It contains three pages:
 - Bootstrap
 - JavaScript
 
-
 ## Roadmap
 
 - [x] index.html
-- [ ] about.html
+- [x] about.html
 - [ ] Bootstrap List Group
 - [ ] Bootstrap Card Component
 - [ ] Bootstrap Grid
-- [ ] ______________
+- [ ] ***
 - [ ] Bootstrap Utility Class
-
 
 ## Contact
 
-Author: 
+Author:
 
 ## Acknowledgements
 
