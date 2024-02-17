@@ -38,3 +38,7 @@ Author: Desmon Garrison email is desmongarrison2@gmail.com
 - https://getbootstrap.com/
 - https://www.w3schools.com/cssref/sel_class.php
 - https://www.w3schools.com/js/js_functions.asp
+- https://www.britannica.com/animal/eagle
+- https://www.britannica.com/animal/falcon
+- https://www.britannica.com/animal/owl
+- YouTube.com
