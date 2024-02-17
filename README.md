@@ -10,7 +10,9 @@ It contains three pages:
 
 - index.html - the home page
 - about.html - the about me page
-- **\_\_**.html - \***\*\_\*\***
+- list.html - List group page with a navbar
+- card.html - 3 cards with working floating link buttons
+- grid.html -
 
 ## Built With
 
@@ -26,8 +28,8 @@ It contains three pages:
 - [x] Bootstrap List Group
 - [x] Bootstrap Card Component
 - [x] Bootstrap Grid
-- [ ] ***
-- [ ] Bootstrap Utility Class
+- [x] Navbar
+- [x] Bootstrap Utility Class
 
 ## Contact
 
