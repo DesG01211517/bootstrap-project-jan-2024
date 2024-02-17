@@ -11,8 +11,8 @@ It contains three pages:
 - index.html - the home page
 - about.html - the about me page
 - list.html - List group page with a navbar
-- card.html - 3 cards with working floating link buttons
-- grid.html -
+- card.html - 3 cards with working floating link buttons and a horizontal navbar
+- grid.html - 3 columns 2 rows with navbar
 
 ## Built With
 
